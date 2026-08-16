@@ -3,4 +3,12 @@
 #Xamper
 #Xam
 @vat
+<<<<<<< Updated upstream
 /
+=======
+/Xampl
+#Xasp
+
+
+
+>>>>>>> Stashed changes
